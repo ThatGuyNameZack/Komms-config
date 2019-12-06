@@ -1,2 +1,2 @@
-# Komms-scripts
-Komms scripts
+# Komms-config
+Komms config
